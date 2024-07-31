@@ -1,0 +1,10 @@
+@import "style.css";
+/* importing the another css
+example 
+@import "header.css";
+@import "navigation.css";
+@import "content.css";
+@import "aside.css";
+@import "footer.css";
+
+Which would take all the css files in this css files which where worked by many members.*/
